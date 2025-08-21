@@ -27,18 +27,6 @@ I love transforming raw data into **business insights** and solving complex prob
 
 ---
 
-## 🚀 **Pinned Projects**
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**automation-lib**](https://github.com/technyder/automation-lib) | A standardized automation library for data workflows & API integrations | Python · FastAPI · Airflow |
-| [**scraping-portfolio**](https://github.com/technyder/scraping-portfolio) | Curated scraping pipelines with Playwright & headless browsers | Python · Playwright · BeautifulSoup |
-| [**data-platform**](https://github.com/technyder/data-platform) | End-to-end data platform for pipelines, transformations & BI | PostgreSQL · dbt · BigQuery |
-
-> 🔗 Explore pinned repositories on my [**profile**](https://github.com/ahsanulhaq3720).
-
----
-
 ## 📊 **GitHub Stats**
 
 <p align="center">
