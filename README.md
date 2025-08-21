@@ -53,14 +53,19 @@ I love transforming raw data into **business insights** and solving complex prob
 </p>
 
 ---
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,flask,airflow,postgresql,mysql,mongodb,bigquery,redis,git,github,docker,linux,aws,gcp,azure" /><br><br> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,plotly" /><br><br> <img src="https://skillicons.dev/icons?i=nodejs,js,ts,playwright" /> </p>
+🔹 Breakdown
 
-## 🛠️ **Tech Stack**
+Data Engineering → Airflow · dbt · PostgreSQL · BigQuery · MongoDB · Redis
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,postgresql,mysql,docker,git,github,linux,aws" />
-</p>
+AI & Automation → OpenAI · LangChain · FastAPI · Flask · Playwright
 
----
+Cloud & DevOps → Docker · AWS · GCP · Azure · GitHub Actions
+
+Visualization → Power BI · Plotly · Matplotlib · Looker
+
+Scraping & Orchestration → Playwright · BeautifulSoup · n8n · Prefect
 
 ## 📈 **Contribution Graph**
 
