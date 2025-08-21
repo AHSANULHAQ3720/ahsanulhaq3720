@@ -55,25 +55,14 @@ I love transforming raw data into **business insights** and solving complex prob
 ---
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,flask,airflow,postgresql,mysql,mongodb,bigquery,redis,git,github,docker,linux,aws,gcp,azure" /><br><br> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,plotly" /><br><br> <img src="https://skillicons.dev/icons?i=nodejs,js,ts,playwright" /> </p>
-🔹 Breakdown
 
-Data Engineering → Airflow · dbt · PostgreSQL · BigQuery · MongoDB · Redis
+**Breakdown
 
-AI & Automation → OpenAI · LangChain · FastAPI · Flask · Playwright
-
-Cloud & DevOps → Docker · AWS · GCP · Azure · GitHub Actions
-
-Visualization → Power BI · Plotly · Matplotlib · Looker
-
-Scraping & Orchestration → Playwright · BeautifulSoup · n8n · Prefect
-
-## 📈 **Contribution Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanulhaq3720&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
+✔ ****Data Engineering**** → Airflow · dbt · PostgreSQL · BigQuery · MongoDB · Redis
+✔ ****AI & Automation**** → OpenAI · LangChain · FastAPI · Flask · Playwright
+✔ ****Cloud & DevOps**** → Docker · AWS · GCP · Azure · GitHub Actions
+✔ ****Visualization**** → Power BI · Plotly · Matplotlib · Looker
+✔ ****Scraping & Orchestration**** → Playwright · BeautifulSoup · n8n · Prefect
 
 ## 📬 **Get in Touch**
 
